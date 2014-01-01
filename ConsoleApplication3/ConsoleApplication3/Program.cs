@@ -14,7 +14,7 @@ class MyEvent
         if (SomeEvent != null)
             SomeEvent();
     }
-
+}
 public class EventDemo
 {
     // An event handler. 
